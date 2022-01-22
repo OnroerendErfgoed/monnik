@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: Monnik
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Koen
+    family-names: Van Daele
+    email: koen.vandaele@vlaanderen.be
+    affiliation: Agentschap Onroerend Erfgoed
+    orcid: 'https://orcid.org/0000-0002-8153-2978'
+abstract: >-
+  Monnik is a Python library that makes it easier to query and interact with
+  the REST API's provided by Agentschap Onroerend Erfgoed, such as the
+  Inventaris Onroerend Erfgoed.
+keywords:
+  - REST
+  - API
+  - python
+  - onroerend erfgoed
+  - cultural heritage
+license: MIT
+version: 0.1.0
+date-released: "2022-xx-xx"
