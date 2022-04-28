@@ -21,7 +21,7 @@ requires = [
 
 setup(
     name='monnik',
-    version='0.1.0-alpha',
+    version='0.1.0-alpha.1',
     description='Library for easy querying of Flanders Heritage REST services.',
     long_description=open('README.rst').read(),
     long_description_content_type='text/x-rst',
