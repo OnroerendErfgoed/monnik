@@ -1,4 +1,4 @@
-0.1.0 (2022-xx-xx)
-------------------
+0.1.0-alpha (2022-04-22)
+------------------------
 
-- Initial version
+- POC version to register package
