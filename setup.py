@@ -20,7 +20,7 @@ requires = [
 ]
 
 setup(
-    name='Monnik',
+    name='monnik',
     version='0.1.0-alpha',
     description='Library for easy querying of Flanders Heritage REST services.',
     long_description=open('README.rst').read(),
